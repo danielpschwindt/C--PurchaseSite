@@ -37,6 +37,23 @@ The goal of this project was to strengthen my understanding of application struc
 ```bash
 dotnet build
 dotnet run
+```
+# Results
 
-<img width="1057" height="930" alt="Screenshot 2026-03-05 193813" src="https://github.com/user-attachments/assets/cd1bb1cf-ce36-4b6d-adb9-40a8c95aaeb7" />
+<img width="1057" height="930" alt="Screenshot 2026-03-05 193813" src="https://github.com/user-attachments/assets/aba47508-a6f5-47a5-bf0a-4b036f44e859" />
+
+# What I Learned
+- Building and structuring C# applications
+- Working with .NET projects
+- Debugging build configuration issues
+- Using Git for version control
+- Managing repositories for professional development
+  
+
+# Future Improvements
+- Refactor code for improved modularity
+- Add unit testing
+- Improve error handling
+
+
 
