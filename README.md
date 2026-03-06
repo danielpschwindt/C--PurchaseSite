@@ -37,3 +37,6 @@ The goal of this project was to strengthen my understanding of application struc
 ```bash
 dotnet build
 dotnet run
+
+<img width="1057" height="930" alt="Screenshot 2026-03-05 193813" src="https://github.com/user-attachments/assets/cd1bb1cf-ce36-4b6d-adb9-40a8c95aaeb7" />
+
