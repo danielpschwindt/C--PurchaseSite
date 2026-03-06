@@ -56,4 +56,7 @@ dotnet run
 - Improve error handling
 
 
+## Author
 
+Danny Schwindt  
+GitHub: (Add your GitHub link here)
