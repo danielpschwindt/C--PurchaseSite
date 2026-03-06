@@ -59,4 +59,4 @@ dotnet run
 ## Author
 
 Danny Schwindt  
-GitHub: (Add your GitHub link here)
+GitHub: (https://github.com/danielpschwindt)
