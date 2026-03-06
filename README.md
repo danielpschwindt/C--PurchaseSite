@@ -23,9 +23,6 @@ The goal of this project was to strengthen my understanding of application struc
 - `Program.cs` – Main application entry point
 - `*.cs` – Core application logic
 - `Schwindt_3.csproj` – Project configuration file
-- `.gitignore` – Excludes build and environment files
-
-Note: `bin/`, `obj/`, and `.vs/` folders are excluded from version control.
 
 ---
 
